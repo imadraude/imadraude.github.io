@@ -20,7 +20,7 @@
 });
 $(function() {
   $(".typed").typed({
-      strings: ["канач гей"],
+      strings: ["канач гей", "канач гей", "канач гей"],
       typeSpeed: 100,
       loop: true,
       cursorChar: "|",
