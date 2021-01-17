@@ -20,7 +20,7 @@
 });
 $(function() {
   $(".typed").typed({
-      strings: ["канач гей", "канач гей", "канач гей"],
+      strings: ["imadraude", "motherhacker", "deanon pipiski", "vladsGangster"],
       typeSpeed: 100,
       loop: true,
       cursorChar: "|",
