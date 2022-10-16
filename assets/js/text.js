@@ -1,6 +1,6 @@
-﻿$(function() {
+﻿$(function () {
     var title = document.title,
-      animSeq = ["|"],
+        animSeq = ["|"],
         animIndex = 0,
         titleIndex = 0;
     function doInverseSpinZeroPitch() {
@@ -18,11 +18,11 @@
     }
     window.setInterval(doInverseSpinZeroPitch, 150);
 });
-$(function() {
-  $(".typed").typed({
-      strings: ["imadraude", "motherhacker", "deanon pipiski", "vladsGangster"],
-      typeSpeed: 100,
-      loop: true,
-      cursorChar: "|",
-  });
+$(function () {
+    $(".typed").typed({
+        strings: ["imadraude", "motherhacker", "deanon pipiski", "vladsGangster"],
+        typeSpeed: 100,
+        loop: true,
+        cursorChar: "|",
+    });
 });
