@@ -20,7 +20,7 @@
 });
 $(function () {
     $(".typed").typed({
-        strings: ["imadraude", "neonazi banderovets", "motherhacker", "/"Azov/" enjoyer"],
+        strings: ["imadraude", "motherhacker", "deanon pipiski", "vladsGangster"],
         typeSpeed: 100,
         loop: true,
         cursorChar: "|",
