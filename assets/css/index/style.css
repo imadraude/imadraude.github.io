@@ -1,8 +1,4 @@
 /* index.html main page styles */
-:root {
-    --darkreader-bg--back-color: rgba(24, 26, 27, 0.22);
-}
-
 body {
     width: 100%;
     min-height: 100%;
